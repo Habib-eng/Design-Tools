@@ -9,3 +9,4 @@ I create this repository to list all Design Tools I need for web developement
 - Bordur Design : https://graphiste.com/blog/animations-css-bordures
 - Box-Shadow Examples : https://getcssscan.com/css-box-shadow-examples
 - Buttons Examples : https://getcssscan.com/css-buttons-examples?ref=beautifulboxshadow-bottom
+- All Css Animations : https://animate.style/
