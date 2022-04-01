@@ -11,3 +11,4 @@ I create this repository to list all Design Tools I need for web developement
 - Buttons Examples : https://getcssscan.com/css-buttons-examples?ref=beautifulboxshadow-bottom
 - All Css Animations : https://animate.style/
 - Image From Api : https://source.unsplash.com/500x500/?scenery 
+- Easings https://easings.net/fr
