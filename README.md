@@ -14,3 +14,4 @@ I create this repository to list all Design Tools I need for web developement
 - Image From Api : https://source.unsplash.com/500x500/?scenery 
 - Easings : https://easings.net/fr
 - SlideShow : https://github.com/Habib-eng/splide-extension-auto-scroll
+- https://coreui.io/
