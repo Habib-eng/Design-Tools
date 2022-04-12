@@ -20,3 +20,4 @@ I create this repository to list all Design Tools I need for web developement
 - gallery : https://github.com/lukasz-galka/ngx-gallery
 - copier-coller : https://www.copier-coller.com/
 - angular-library : https://www.telerik.com/blogs/17-angular-libraries-you-should-know-about
+- angular-pdf : https://github.com/VadimDez/ng2-pdf-viewer
