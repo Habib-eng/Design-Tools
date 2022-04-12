@@ -14,6 +14,7 @@ I create this repository to list all Design Tools I need for web developement
 - Image From Api : https://source.unsplash.com/500x500/?scenery 
 - Easings : https://easings.net/fr
 - SlideShow : https://github.com/Habib-eng/splide-extension-auto-scroll
-- Dashboard https://coreui.io/
-- E-commerce https://bootstrap-menu.com/
-- https://color.adobe.com/fr/create/color-contrast-analyzer
+- Dashboard : https://coreui.io/
+- E-commerce : https://bootstrap-menu.com/
+- Color : https://color.adobe.com/fr/create/color-contrast-analyzer
+- gallery : https://github.com/lukasz-galka/ngx-gallery
