@@ -23,3 +23,4 @@ I create this repository to list all Design Tools I need for web developement
 - angular-pdf : https://github.com/VadimDez/ng2-pdf-viewer
 - Gallerie d'image : https://ngx-gallery.netlify.app/#/
 - Google Hosted Libraries : https://developers.google.com/speed/libraries
+- Tailwind : https://tailwindcss.com/
