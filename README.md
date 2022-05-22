@@ -24,3 +24,5 @@ I create this repository to list all Design Tools I need for web developement
 - Gallerie d'image : https://ngx-gallery.netlify.app/#/
 - Google Hosted Libraries : https://developers.google.com/speed/libraries
 - Tailwind : https://tailwindcss.com/
+- forReact : https://mui.com/material-ui/getting-started/templates/
+- E-commerce Website : https://bootstrap-ecommerce.com/
