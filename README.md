@@ -2,6 +2,7 @@
 ...
 I create this repository to list all Design Tools I need for web developement
 ...
+- Angular Tools : https://ng.ant.design/docs/recommendation/en
 - Blob SVG : https://getwaves.io/
 - Javascript Library : https://createjs.com/
 - Gallerie d'Images : https://github.com/lukasz-galka/ngx-gallery
