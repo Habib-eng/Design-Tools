@@ -2,6 +2,7 @@
 ...
 I create this repository to list all Design Tools I need for web developement
 ...
+- Best Hover Animation : https://bbbootstrap.com/
 - Drag and Drop : https://anvil.works/utm_source=youtube%3Aexp7&utm_medium=social&utm_campaign=webui_specific_row&gclid=CjwKCAjwtcCVBhA0EiwAT1fY7xcKt6ZN26_Cs0zxWVlpR48LrqFJQdKTQMOrZ9qbZO8Nl3LTeG6AtBoCZ1EQAvD_BwE
 - Angular Tools : https://ng.ant.design/docs/recommendation/en
 - Blob SVG : https://getwaves.io/
